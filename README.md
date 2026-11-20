@@ -34,5 +34,5 @@ backend mostly. apis, data pipelines, the occasional thing that runs at 3am with
 ---
 
 <div align="center">
-<sub>bUtteRmilkTea &nbsp;·&nbsp; open to talking shop</sub>
+<sub>bUtteRmilkTea &nbsp;·&nbsp; i like finance</sub>
 </div>
