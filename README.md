@@ -1,14 +1,9 @@
 <div align="center">
-
-# yhh...
-<br>
-
-<sub>whatevs...</sub>
-
+  
 <br>
 
 ![](https://img.shields.io/badge/-backend-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
-![]([https://img.shields.io/badge/-sometime-0d1117?style=flat-square&labelColor=0d1117&color=0d1117](https://img.shields.io/badge/-sometimes%20frontend-0d1117?style=flat-square&labelColor=0d1117&color=0d1117))
+![](https://img.shields.io/badge/-sometimes%20frontend-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
 ![](https://img.shields.io/badge/-apis-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
 ![](https://img.shields.io/badge/-data-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
 
@@ -18,7 +13,6 @@
 
 backend mostly. apis, data pipelines, the occasional thing that runs at 3am without me.
 
-<br>
 
 ### &nbsp;&nbsp;◦&nbsp; right now
 
