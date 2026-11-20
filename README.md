@@ -1,12 +1,14 @@
 <div align="center">
 
 # yhh...
+<br>
 
 <sub>whatevs...</sub>
 
 <br>
 
 ![](https://img.shields.io/badge/-backend-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
+![]([https://img.shields.io/badge/-sometime-0d1117?style=flat-square&labelColor=0d1117&color=0d1117](https://img.shields.io/badge/-sometimes%20frontend-0d1117?style=flat-square&labelColor=0d1117&color=0d1117))
 ![](https://img.shields.io/badge/-apis-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
 ![](https://img.shields.io/badge/-data-0d1117?style=flat-square&labelColor=0d1117&color=0d1117)
 
@@ -25,7 +27,7 @@ backend mostly. apis, data pipelines, the occasional thing that runs at 3am with
 
 ### &nbsp;&nbsp;◦&nbsp; tools
 
-&nbsp;&nbsp;&nbsp;&nbsp;`python` &nbsp;`typescript` &nbsp;`postgres` &nbsp;`docker` &nbsp;`whatever the job needs`
+&nbsp;&nbsp;&nbsp;&nbsp;`go` &nbsp;`typescript` &nbsp;`postgres` &nbsp;`docker` &nbsp;`whatever the job needs`
 
 ### &nbsp;&nbsp;◦&nbsp; opinions, loosely held
 
